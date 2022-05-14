@@ -5,8 +5,6 @@ Please check Tictactoe_Game_Doc.pdf file first.
 It has scripts to create functions, procedures and tables. 
 Also, it has all the test cases noted down along with their respective outputs.
 
-Additionally providing code in .sql files as well. 
-
 FOR CODE:
 1. RUN THE SCRIPT TICTACTOE.sql first in the GAME SCRIPTS folder.
 2. YOU can find the TEST CASES in the TEST CASES FOLDER.
